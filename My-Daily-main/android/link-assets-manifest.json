@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/Code/Assets/Fonts/RobotoSerif-Bold.ttf",
+      "sha1": "04a5a6d4ab4eb9f9cc11d13d5d1bc8facd6821f6"
+    },
+    {
+      "path": "src/Code/Assets/Fonts/RobotoSerif-Medium.ttf",
+      "sha1": "06835351c36cd425c9ef7cdc88a9964573461920"
+    },
+    {
+      "path": "src/Code/Assets/Fonts/RobotoSerif-Regular.ttf",
+      "sha1": "49723f6d1e00e7e4ad3a074c26d921ca83a6199f"
+    }
+  ]
+}

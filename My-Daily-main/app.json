@@ -1,0 +1,9 @@
+{
+  "name": "My_Daily",
+  "displayName": "My_Daily",
+  
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-7671392847069245~3787309296"
+  }
+  
+}
